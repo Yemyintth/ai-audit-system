@@ -60,7 +60,7 @@ Prerequisites: Node.js 18+, Python 3.10+, PostgreSQL 15+, Git
 
 1. Clone
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-audit-system.git
+git clone https://github.com/Yemyintth/ai-audit-system.git
 cd ai-audit-system
 ```
 
@@ -162,7 +162,7 @@ MIT License
 
 ## Author
 
-Your Name
-- Email: your.email@example.com
-- GitHub: @YOUR_USERNAME
+Ye Myint
+- Email: thuyemyint38@gmail.com
+- GitHub: @Yemyintth
 
